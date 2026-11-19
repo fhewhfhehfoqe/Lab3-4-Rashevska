@@ -1,0 +1,1 @@
+{"header": {"version": 1, "algorithm": "AES-CBC-HMAC-SHA256", "kdf": "PBKDF2-HMAC-SHA256", "iterations": 600000, "salt": "ZE0Z3u0FB2gxNbZj+i5+oQ==", "iv": "Klv1MtKYF/hPcfzVGCAuSw=="}, "ciphertext": "kza4BodPn8ZZOsX9qOr2sbbNOeMcIC/YVXdaRgkdDdDDL7KwWo6TEq7kpVggMw+T6S67KapEXgdlK26tlhedDEE6FQm6waAcq9i6sFemtcYohRnBP6FfAKTpcgpR1s8Y"}

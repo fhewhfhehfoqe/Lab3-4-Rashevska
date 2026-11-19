@@ -1,0 +1,1 @@
+{"header": {"version": 1, "algorithm": "AES-GCM", "kdf": "PBKDF2-HMAC-SHA256", "iterations": 600000, "salt": "OInncUHuRdEGbQeQMvuABw==", "nonce": "CP/jfz5OJAxLVFDr"}, "ciphertext": "ZZDjZuubPrGtkovzCKtcud+3fxWpG+H4SgvIB1GHXtGH+EUq+0OoZjnVYJ4Zop8MwlzztDTKczL3SO9kv8GRDwcfNjgYvK329Q=="}
